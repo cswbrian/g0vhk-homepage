@@ -1,0 +1,24 @@
+
+/* line 297 : /home/howawong/g0vhk-homepage/src/css/style.styl */
+
+/* line 1 : /home/howawong/g0vhk-homepage/node_modules/stylus/lib/functions/index.styl */
+
+/* line 1 : /home/howawong/g0vhk-homepage/src/css/style.styl */
+body {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+/* line 4 : /home/howawong/g0vhk-homepage/src/css/style.styl */
+.project-image {
+  border: 3px solid #333;
+}
+
+/* line 7 : /home/howawong/g0vhk-homepage/src/css/style.styl */
+.nopadding {
+  margin-bottom: 0px;
+}
+
+/* line 10 : /home/howawong/g0vhk-homepage/src/css/style.styl */
+.footer {
+  width: 100%;
+}
