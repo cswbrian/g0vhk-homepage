@@ -1,0 +1,15 @@
+include ../components/index
+
+doctype html
+html
+    include ../includes/head
+
+    body
+        div(id="fb-root")
+        script(async,src="https://www.googletagmanager.com/gtag/js?id=UA-82689420-7")
+        script
+          include ../includes/ga.js
+        script(async,defer,crossorigin="anonymous",src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0")
+        block content
+
+        include ../includes/ending
